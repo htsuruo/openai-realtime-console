@@ -1,3 +1,8 @@
+
+# https://htsuruo.github.io/openai-realtime-console/
+
+---
+
 # OpenAI Realtime Console
 
 The OpenAI Realtime Console is intended as an inspector and interactive API reference
@@ -15,13 +20,13 @@ This is a React project created using `create-react-app` that is bundled via Web
 Install it by extracting the contents of this package and using;
 
 ```shell
-$ npm i
+npm i
 ```
 
 Start your server with:
 
 ```shell
-$ npm start
+npm start
 ```
 
 It should be available via `localhost:3000`.
@@ -67,7 +72,7 @@ If you would like to build a more robust implementation and play around with the
 client using your own server, we have included a Node.js [Relay Server](/relay-server/index.js).
 
 ```shell
-$ npm run relay
+npm run relay
 ```
 
 It will start automatically on `localhost:8081`.
