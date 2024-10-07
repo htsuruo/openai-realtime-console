@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "type": "module",
   "private": true,
-  "homepage": "https://github.com/htsuruo/openai-realtime-console.git",
+  "homepage": "https://htsuruo.github.io/openai-realtime-console",
   "dependencies": {
     "@openai/realtime-api-beta": "github:openai/openai-realtime-api-beta",
     "@testing-library/jest-dom": "^5.17.0",
